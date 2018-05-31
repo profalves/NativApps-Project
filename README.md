@@ -2,6 +2,8 @@
 
 > Um projeto FullStack construido com VueJS + Quasar Framework no frontend e NodeJS + MongoDB + Express no backend
 
+Para poder utilizar o sistema, tem que obter a API deste projeto em: https://github.com/profalves/API-NativApps
+
 ## Setup do Projeto
 
 com um bash do node aberto na pasta raíz, pode executar os comandos abaixo:
