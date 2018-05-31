@@ -2,7 +2,7 @@
 
 > Um projeto FullStack construido com VueJS + Quasar Framework no frontend e NodeJS + MongoDB + Express no backend
 
-## Setup do Prjeto
+## Setup do Projeto
 
 com um bash do node aberto na pasta raíz, pode executar os comandos abaixo:
 
