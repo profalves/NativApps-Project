@@ -131,6 +131,9 @@ export default {
   .white{
     color: #fff;
   }
+  .center{
+    text-align: center;
+  }
   /*transitions router*/
   .fade-enter-active, .fade-leave-active {
     transition: opacity .5s ease;
