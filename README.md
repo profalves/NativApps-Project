@@ -1,19 +1,21 @@
-# Quasar App
+# NativApps
 
-> A Quasar project
+> Um projeto FullStack construido com VueJS + Quasar Framework no frontend e NodeJS + MongoDB + Express no backend
 
-## Build Setup
+## Setup do Prjeto
+
+com um bash do node aberto na pasta raíz, pode executar os comandos abaixo:
 
 ``` bash
-# install dependencies
+# Instale as dependencias, antes de tudo
 $ npm install
 
-# serve with hot reload at localhost:8080
+# servidor de desenvolvimento com hot reload at localhost:8080
 $ quasar dev
 
-# build for production with minification
+# Gerar um build para produção e minificação dos arquivos
 $ quasar build
 
-# lint code
+# verificar o código
 $ quasar lint
 ```
